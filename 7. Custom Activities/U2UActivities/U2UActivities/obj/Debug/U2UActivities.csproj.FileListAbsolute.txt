@@ -1,0 +1,11 @@
+c:\deleteme\U2UActivities\U2UActivities\obj\Debug\U2UActivities.csprojResolveAssemblyReference.cache
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\U2UActivities.dll
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\U2UActivities.pdb
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\Microsoft.Xrm.Sdk.xml
+c:\deleteme\U2UActivities\U2UActivities\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+c:\deleteme\U2UActivities\U2UActivities\obj\Debug\U2UActivities.dll
+c:\deleteme\U2UActivities\U2UActivities\obj\Debug\U2UActivities.pdb

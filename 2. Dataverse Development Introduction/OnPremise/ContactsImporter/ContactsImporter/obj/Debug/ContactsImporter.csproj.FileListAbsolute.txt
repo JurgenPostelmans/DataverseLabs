@@ -1,0 +1,20 @@
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.exe.config
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.exe
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.pdb
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Newtonsoft.Json.dll
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Newtonsoft.Json.xml
+c:\deleteme\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.csprojResolveAssemblyReference.cache
+c:\deleteme\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.exe
+c:\deleteme\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.pdb
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.csprojResolveAssemblyReference.cache
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.exe.config
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.exe
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.pdb
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\bin\Debug\Newtonsoft.Json.dll
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\bin\Debug\Newtonsoft.Json.xml
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.exe
+X:\U2U Cursussen\UCRM365D\Labs\OnPremise\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.pdb

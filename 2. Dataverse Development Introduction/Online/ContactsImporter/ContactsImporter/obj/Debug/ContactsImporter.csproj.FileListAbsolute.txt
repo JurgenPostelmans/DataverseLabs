@@ -1,0 +1,12 @@
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.exe.config
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.exe
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\ContactsImporter.pdb
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Newtonsoft.Json.dll
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\deleteme\ContactsImporter\ContactsImporter\bin\Debug\Newtonsoft.Json.xml
+c:\deleteme\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.csprojResolveAssemblyReference.cache
+c:\deleteme\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.exe
+c:\deleteme\ContactsImporter\ContactsImporter\obj\Debug\ContactsImporter.pdb

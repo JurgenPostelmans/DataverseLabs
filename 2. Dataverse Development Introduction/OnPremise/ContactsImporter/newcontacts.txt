@@ -1,0 +1,4 @@
+FirstName,LastName,NumberOfChildren,BirthDate,Gender,CreditLimit
+Jurgen,Postelmans,1,4/9/1971,1,1000
+Peter,Himschoot,3,1/1/1960,1,2000
+Els,Putzeys,2,1/1/1975,2,3000
